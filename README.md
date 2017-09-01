@@ -1,0 +1,4 @@
+# SlowLoris
+A simple slow Loris doser for Pythonista 3
+
+I DO NOT ENCOURAGE DOS ATTACKS, USE FOR TESTING PURPOSES ONLY ON YOUR OWN SERVERS!
